@@ -1,0 +1,7 @@
+[project]
+name = "probabilistic-programming-and-bayesian-methods-for-hackers"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12.9"
+dependencies = []
